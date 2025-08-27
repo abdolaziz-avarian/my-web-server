@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Keys and certificates (do not commit secrets)
+*.key
+*.crt
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor settings and OS files
+.vscode/
+.idea/
+.DS_Store
